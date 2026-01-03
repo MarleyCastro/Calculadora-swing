@@ -44,22 +44,6 @@ A aplicação utiliza a fórmula de juros compostos para calcular o montante fin
 
 ---
 
-## 🚧 Status do Projeto
-
-<h4 align="center"> 
-	🚀 Calculadora de Investimentos - Em desenvolvimento 
-</h4>
-
-### Próximas funcionalidades planejadas:
-- [ ] Validação de campos de entrada
-- [ ] Gráfico de evolução do investimento
-- [ ] Exportação de resultados em PDF
-- [ ] Histórico de cálculos
-- [ ] Modo escuro
-- [ ] Cálculo de rentabilidade real (descontando inflação)
-
----
-
 ## ⚙️ Funcionalidades
 
 ✅ **Cálculo de Juros Compostos**
